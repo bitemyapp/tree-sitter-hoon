@@ -17,3 +17,5 @@ tree-sitter.js
 
 parser
 parser-info
+
+target/

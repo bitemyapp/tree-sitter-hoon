@@ -5,7 +5,7 @@ version = "0.0.2"
 keywords = ["incremental", "parsing", "hoon"]
 categories = ["parsing", "text-editors"]
 repository = "https://github.com/urbit-pilled/tree-sitter-hoon"
-edition = "2023"
+edition = "2024"
 license = "MIT"
 
 build = "bindings/rust/build.rs"
